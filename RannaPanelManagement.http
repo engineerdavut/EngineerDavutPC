@@ -1,0 +1,6 @@
+@RannaPanelManagement_HostAddress = http://localhost:5256
+
+GET {{RannaPanelManagement_HostAddress}}/rannapanelmanagement/
+Accept: application/json
+
+###
